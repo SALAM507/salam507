@@ -4,10 +4,10 @@ I'm a **Software Engineer** with a passion for building meaningful applications 
 
 ## 🚀 About Me
 
-- 🎓 **Computer Science graduate** from Hunter College, with strong foundations in algorithms, software engineering principles, and system design.
-- 💼 Currently a **Front-End Developer** at **ERBuddy**, where I help seniors manage their health more independently by leading the React Native app development.
-- 🔒 Previously at **Morgan Stanley**, I enhanced global infrastructure security using Splunk and Python data pipelines to monitor server traffic and detect anomalies.
-- 🗽 At the **NYC Department of Transportation**, I developed educational games and trained ML models to optimize satellite data interpretation and enhance urban transit safety.
+- 🎓 **Computer Science graduate** from Hunter College with strong foundations in algorithms, software engineering principles, and system design.
+- 💼 Currently a **Full-Stack Developer** at **ERBuddy** where I help seniors manage their health more independently by leading the React Native app development.
+- 🔒 Previously at **Morgan Stanley** I enhanced global infrastructure security using Splunk and Python data pipelines to monitor server traffic and detect anomalies.
+- 🗽 At the **NYC Department of Transportation** I developed educational games and trained ML models to optimize satellite data interpretation and enhance urban transit safety.
 - 🛠️ Built projects like:
   - [**Locally**](#): A React + MongoDB neighborhood insight tool using NYC Open Data & Google Maps API.
   - [**Stock Envisage**](#): A Dockerized full-stack finance app with stock tracking, predictive modeling, and OAuth login.
@@ -18,7 +18,7 @@ I'm a **Software Engineer** with a passion for building meaningful applications 
 React, JavaScript, Python, C++, Node.js, C#, HTML/CSS, Jest, Unity
 
 **Tools & Platforms:**  
-MongoDB, Docker, Nest.js, PostgreSQL, GitHub Actions, AWS S3/Route 53/CloudFront, Splunk, Jira, Xcode, Postman
+MongoDB, Docker, Nest.js, PostgreSQL, GitHub Actions, AWS, Splunk, Jira, Xcode, Postman
 
 ## 📈 What I'm Looking For
 
@@ -30,7 +30,7 @@ I'm currently looking for **Full Stack Development** opportunities where I can:
 
 ## 🏀 Outside the Code
 
-I'm a huge **basketball** fan, aviation, an avid **gamer**, and a proud reptile parent to my two geckos—**Noodles** and **Rango** 🦎.
+I'm a huge basketball fan, aviation, an avid gamer, and a proud reptile parent to my two geckos N,oodles and Rango 🦎.
 
 ---
 
