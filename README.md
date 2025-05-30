@@ -3,7 +3,7 @@
 I'm a Software Engineer passionate about building full-stack apps that solve real world problems.
 
 - 🎓 CS grad from Hunter College  
-- 💼 Full-Stack PERN Dev at ERBuddy – building React Native apps
+- 💼 SWE PERN Dev at ERBuddy – building React Native apps
 - 🔒 Past intern at Morgan Stanley (Python + Splunk dashboards for ops security)  
 - 🧠 Built ML models + games at NYC DOT to improve transit safety and database classification 
 
