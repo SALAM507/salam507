@@ -2,14 +2,15 @@
 
 I'm a Software Engineer passionate about building full-stack apps that solve real world problems.
 
-- 🎓 CS grad from Hunter College  
+- 🎓 CS grad from Hunter College
+- 〽 SWE Dev at ThunderGraph AI – Using AI to make Model Based Systems Engineering more intuitive, visual, and traceable
 - 💼 SWE PERN Dev at ERBuddy – building React Native apps
 - 🔒 Past intern at Morgan Stanley (Python + Splunk dashboards for ops security)  
 - 🧠 Built ML models + games at NYC DOT to improve transit safety and database classification 
 
 ## 🔍 Looking for
 
-Full Stack roles where I can build, ship, and grow.
+Full time Full Stack roles where I can build, ship, and grow.
 
 ## 🛠️ Tools I Use
 
